@@ -38,4 +38,6 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre GitO
 
 5. Criando e configurando repositório
 
- - 
+ - Criando as secrets dentro do repositório Git
+
+ - Para senha do Dockerhub é necessário criar um `access token` dentro do dockerhub indo em "Accounting Settings -> Security -> New Access Token" após isso o resultado inserir dentro da secret do repositório.
