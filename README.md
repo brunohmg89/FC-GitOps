@@ -34,4 +34,8 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre GitO
 
 4. Criando fluxo de geração de imagem
 
+ - criando o arquivo `cd.yaml` dentro do diretório `.github\workflows`
+
+5. Criando e configurando repositório
+
  - 
