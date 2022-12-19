@@ -30,4 +30,8 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre GitO
 
 3. Criando imagem Docker
 
+ - Criando o arquivo `Dockerfile`
+
+4. Criando fluxo de geração de imagem
+
  - 
