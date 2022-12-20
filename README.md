@@ -41,3 +41,11 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
  - Criando as secrets dentro do repositório Git
 
  - Para senha do Dockerhub é necessário criar um `access token` dentro do dockerhub indo em "Accounting Settings -> Security -> New Access Token" após isso o resultado inserir dentro da secret do repositório.
+
+ - A action `checkout@v2` está depreciada, código atualizado para a versão `checkout@v3`
+
+ - Debugado código, estava apresentando erro, consertado linha do repositório, colocado USERNAME.
+
+6. Criando manifesto Kubernetes
+
+ - 
