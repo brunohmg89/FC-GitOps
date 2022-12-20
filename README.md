@@ -48,4 +48,14 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
 
 6. Criando manifesto Kubernetes
 
- - 
+ - Criação dos arquivos de manifesto do Kubernetes, `deployment.yaml` e `service.yaml`
+
+7. Iniciando com o Kustomize
+
+ - Explicando sobre o Kustomize
+
+ - Instalando o Kustomize via `choco install kustomize`
+
+ - Criação do arquivo `kustomization.yaml` para a customização da imagem
+
+8. Criando fluxo de CD
