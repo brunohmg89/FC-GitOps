@@ -1,4 +1,4 @@
-name: CD Gitops
+name: cd gitops
 
 on:
   push:
@@ -6,14 +6,14 @@ on:
       
 jobs:
   build:
-    name: Build
+    name: build
     runs-on: Ubuntu-latest
 
     steps:
-      - name: Checkout code
+      - name: checkout code
         uses: actions/checkout@v2
 
-      - name: Build and push image to Dockerhub
+      - name: build and push image to dockerhub
         uses: docker/build-push-action@v1.1.0
         with:
           username: ${{secrets.DOCKER_USERNAME}}
