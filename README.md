@@ -59,3 +59,12 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
  - Criação do arquivo `kustomization.yaml` para a customização da imagem
 
 8. Criando fluxo de CD
+
+ - Configurando o Kustomize dentro do Workflow
+
+ - Atualizando a TAG da imagem
+
+ - Realizando commit com a TAG
+
+ - Realizando o push para o repositório
+ 
