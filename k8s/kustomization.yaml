@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: brunohmg89/fcgitops
-  newTag: GITHUB_SHA
+  newTag: f6bd3ad6b350ec96b30c0a82da20a15aa213e914
