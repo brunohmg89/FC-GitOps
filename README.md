@@ -82,7 +82,21 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
 
  - Passo 1 -> Install ArgoCD
 
- - 
+ - Passo 2 -> Login Using The CLI (Para capturar a senha de admin), foi necessário instalar o base64 fiz via chocolatey.
+
+ - Passo 3 -> Port Forwarding (Para publicar o ArgoCD em localhost)
+
+11. Fazendo deploy com ArgoCD
+
+ - Criando aplicação dentro do ArgoCD
+
+ - Realizando Sync dentro do ArgoCD para verificar a saúde do Cluster
+
+ - Tive um problema com o variável SHA dentro do workflow, faltava o `$`.
+
+ - Atualizando o `main.go` para ver o deploy em andamento.
+
+12. 
 
 
  
