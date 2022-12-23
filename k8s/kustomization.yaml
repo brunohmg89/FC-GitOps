@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: brunohmg89/fcgitops
-  newTag: f6bd3ad6b350ec96b30c0a82da20a15aa213e914
+  newTag: 9f6473f2df6cc262b926b3bb153a2841b2b0bdfb
