@@ -67,4 +67,22 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
  - Realizando commit com a TAG
 
  - Realizando o push para o repositório
+
+9. Finalizando o fluxo de CD
+
+ - Problema com o token, acertando o arquivo
+
+ - Aplicando configurações no k8s `kubectl apply -f /k8s/
+
+ - Github realizando a atualizando a TAG automaticamente
+
+10. Instalando o ArgoCD
+
+ - Getting Starterd ArgoCD <https://argo-cd.readthedocs.io/en/stable/getting_started/>
+
+ - Passo 1 -> Install ArgoCD
+
+ - 
+
+
  
