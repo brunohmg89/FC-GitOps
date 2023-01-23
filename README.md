@@ -98,4 +98,10 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
 
 12. Fazendo Rollback e visualizando apps
 
- - 
+ - É possível efetuar o rollback indo em `HISTORY AND ROLLBACK`
+
+ - Algumas explicações do ArgoCD e como utiliza-lo
+
+13. Últimas dicas
+
+ - Dicas de conexão com repositórios privados indo em `Settings > Repositories`.
