@@ -104,4 +104,4 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
 
 13. Últimas dicas
 
- - Dicas de conexão com repositórios privados indo em `Settings > Repositories`.
+ - Dicas de conexão com repositórios privados indo em `Settings > Repositories`
