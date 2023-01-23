@@ -96,7 +96,6 @@ Repositório criado para inserção de conteúdo do curso da FullCyle sobre Gito
 
  - Atualizando o `main.go` para ver o deploy em andamento.
 
-12. 
+12. Fazendo Rollback e visualizando apps
 
-
- 
+ - 
